@@ -1,4 +1,4 @@
-# Advanced Digital Signal Processing Notebooks and Tutorials
+# Advanced Digital Signal Processing <br> Notebooks and Tutorials
 <p align="center">
     <img src="./images/adsp_logo.png">
 </p>
