@@ -22,6 +22,13 @@
   - SNR for Uniformly Distribution Signals
   - SNR for a Sine Wave
     - PDF of Time Series
+    
+- 03 Quantization - Non-Uniform Quantization: [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/ADSP_Tutorials/blob/master/ADSP_03_Non-Uniform_Quantization.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/ADSP_Tutorials/master?filepath=ADSP_03_Non-Uniform_Quantization.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/ADSP_Tutorials/blob/master/ADSP_03_Non-Uniform_Quantization.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/ASTD7vkgaKM)
+
+  - Companding
+      - µ-LAw and A-Law
+      - Python Example: µ-LAw
+      - Python Example: Real-Time Mid-Tread, Mid-Rise, µ-Law
   
   
  # YouTube Playlist
