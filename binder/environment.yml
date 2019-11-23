@@ -1,0 +1,15 @@
+name: ADSPTutorials
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - librosa
+  - numpy
+  - scipy
+  - sympy
+  - matplotlib
+  - ipywidgets
+  - jupyter_contrib_nbextensions
+  - rise
+  - plotly=3.10.0
