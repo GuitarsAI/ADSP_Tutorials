@@ -32,7 +32,30 @@
       - µ-LAw and A-Law
       - Python Example: µ-LAw
       - Python Example: Real-Time Mid-Tread, Mid-Rise, µ-Law
+
+- 04r Quantization - Revision: Histogram, PDFs, Numerical Integration <br>
+[![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/ADSP_Tutorials/blob/master/ADSP_04r_PDF_Hist_Revision.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/ADSP_Tutorials/master?filepath=ADSP_04r_PDF_Hist_Revision.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/ADSP_Tutorials/blob/master/ADSP_04r_PDF_Hist_Revision.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/NLo0jU8CGDE)
+
+  - Histograms
+  - Probability Density Functions
+  - Numerical Integration
+    - Riemann Sum
+    - Trapezoidal Rule
+ 
+- 04 Quantization - Lloyd-Max Quantizer <br>
+[![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/ADSP_Tutorials/blob/master/ADSP_04_LloydMax.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/ADSP_Tutorials/master?filepath=ADSP_04_LloydMax.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/ADSP_Tutorials/blob/master/ADSP_04_LloydMax.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/n2xuCE2dKeo)
+
+  - Lloyd-Max Quantizer
+  - Lloyy-Max Quantizer Examples
   
+- 05 Quantization - Vector Quantizer (VQ) and Linde-Buzo-Gray (LBG) Algorithm <br>
+[![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/ADSP_Tutorials/blob/master/ADSP_05_VQ_LBG.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/ADSP_Tutorials/master?filepath=ADSP_05_VQ_LBG.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/ADSP_Tutorials/blob/master/ADSP_05_VQ_LBG.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/UKJ2sXqjsro)
+
+  - Vector Quantization
+  - Linde-Buzo-Gray Algorithm
+  - Python Examples: Vector Quantization in an Encoder and Decoder
+    - Iron Maiden - The Number of the Beast Introduction 
+    - Iron Maiden - Aces High Introduction
   
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjbDezYkAE-sAQ5MOpYeqM6)
