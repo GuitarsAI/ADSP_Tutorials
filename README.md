@@ -86,6 +86,17 @@
     -  Computing the Resulting Frequency Response
     - The z-Plane
     - Impulse Response
+    
+- 08 Filters and Noble Identities <br>
+[![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/ADSP_Tutorials/blob/master/ADSP_08_Nobel%20Identities.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/ADSP_Tutorials/master?filepath=ADSP_08_Nobel%20Identities.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/ADSP_Tutorials/blob/master/ADSP_08_Nobel%20Identities.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/Qd5fFXLKNq4)
+
+  - Filter Design
+    - Linear Phase and Signal Delay
+    - General Phase and Groud Delay
+    - Magnitude
+  - Multirate Noble Identities
+  - Polyphase Vectors
+  - Python Example: Noble Identities and Polyphase Vectors
   
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjbDezYkAE-sAQ5MOpYeqM6)
