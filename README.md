@@ -98,6 +98,16 @@
   - Polyphase Vectors
   - Python Example: Noble Identities and Polyphase Vectors
   
+- 09 Allpass Filters and Frequency Warping <br>
+[![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/ADSP_Tutorials/blob/master/ADSP_09_AllPassFilters.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/ADSP_Tutorials/master?filepath=ADSP_09_AllPassFilters.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/ADSP_Tutorials/blob/master/ADSP_09_AllPassFilters.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/sLY2mSAPh6M)
+
+  - Allpass Filters
+    - Allpass Filter as Fractional Delay 
+    - IIR Fractional Delay Filter Design
+    - Simple IIR Allpass Filters
+  - Frequency Warping Introduction
+  - Frequency Warping and Bark Scale
+  
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjbDezYkAE-sAQ5MOpYeqM6)
  
