@@ -108,6 +108,15 @@
   - Frequency Warping Introduction
   - Frequency Warping and Bark Scale
   
+- 10 Frequency Warping and Minimum Phase Filters <br>
+[![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/ADSP_Tutorials/blob/master/ADSP_10_FrequencyWarping.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/ADSP_Tutorials/master?filepath=ADSP_10_FrequencyWarping.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/ADSP_Tutorials/blob/master/ADSP_10_FrequencyWarping.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/-kmD8XO4H8M)
+
+  - Frequency Warping
+  - Minimum Phase Filters 
+    - Python Example
+    - Impulse Response
+    - Frequency Response
+  
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjbDezYkAE-sAQ5MOpYeqM6)
  
