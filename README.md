@@ -140,6 +140,17 @@
   - Matched Filters
     - Python Example: Closed Form Solution
     - Convolutional Neural Network Implementation: PyTorch
+    
+- 14 Prediction <br>
+[![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/ADSP_Tutorials/blob/master/ADSP_14_Prediction.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/ADSP_Tutorials/master?filepath=ADSP_14_Prediction.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/ADSP_Tutorials/blob/master/ADSP_14_Prediction.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/fKrlRUFPrDg)
+
+  - Prediction
+    - Wiener-Hopf Closed Form Solution
+    - Encoder-Decoder System
+    - Neural Network Implementation - PyTorch
+  - Linear Predictive Coding (LPC)
+  - Least Mean Squares (LMS) Algorithm
+    - LMS with Quantizer
   
   
  # YouTube Playlist
