@@ -10,7 +10,7 @@ dependencies:
   - numpy
   - scipy
   - sympy
-  - matplotlib
+  - matplotlib=3.1
   - ipywidgets
   - jupyter_contrib_nbextensions
   - rise
